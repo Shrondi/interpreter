@@ -1,7 +1,7 @@
 # Intérprete de pseudocódigo en español: interpreter
 
 **Autor:** Carlos Lucena Robles  
-**Asignatura:** Procesadores de lenguajes 
+**Asignatura:** Procesadores de lenguajes  
 **Curso:** 2022 - 2023  
 **Universidad:** Universidad de Córdoba  
 **Grado:** 3º de Ingeniería Informática  
