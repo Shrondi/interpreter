@@ -1,9 +1,0 @@
-<map id="lp::LogicalVariable" name="lp::LogicalVariable">
-<area shape="rect" id="Node000001" title="Definition of atributes and methods of LogicalVariable class." alt="" coords="8,1189,143,1600"/>
-<area shape="rect" id="Node000002" href="$classlp_1_1Variable.html" title="Definition of atributes and methods of Variable class." alt="" coords="24,773,127,1141"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,1156,78,1190,73,1190,73,1156"/>
-<area shape="rect" id="Node000003" href="$classlp_1_1Symbol.html" title="Definition of the class Symbol." alt="" coords="19,272,132,725"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,740,78,774,73,774,73,740"/>
-<area shape="rect" id="Node000004" href="$classlp_1_1SymbolInterface.html" title="Prototype of the pure virtual methods." alt="" coords="5,5,145,224"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="78,239,78,272,73,272,73,239"/>
-</map>

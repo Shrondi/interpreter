@@ -1,9 +1,0 @@
-<map id="lp::GreaterThanNode" name="lp::GreaterThanNode">
-<area shape="rect" id="Node000001" title="Definition of atributes and methods of GreaterThanNode class." alt="" coords="27,485,177,597"/>
-<area shape="rect" id="Node000002" href="$classlp_1_1RelationalOperatorNode.html" title="Definition of atributes and methods of RelationalOperatorNode class." alt="" coords="5,347,199,437"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,452,105,485,99,485,99,452"/>
-<area shape="rect" id="Node000003" href="$classlp_1_1OperatorNode.html" title="Definition of atributes and methods of OperatorNode class." alt="" coords="39,208,165,299"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,313,105,347,99,347,99,313"/>
-<area shape="rect" id="Node000004" href="$classlp_1_1ExpNode.html" title="Definition of atributes and methods of ExpNode class." alt="" coords="29,5,175,160"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,175,105,208,99,208,99,175"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="lp::LogicalUnaryOperatorNode" name="lp::LogicalUnaryOperatorNode">
-<area shape="rect" id="Node000001" title="Definition of atributes and methods of UnaryOperatorNode class." alt="" coords="5,347,217,437"/>
-<area shape="rect" id="Node000004" href="$classlp_1_1NotNode.html" title="Definition of atributes and methods of UnaryPlusNode class." alt="" coords="50,485,173,597"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,452,114,485,109,485,109,452"/>
-<area shape="rect" id="Node000002" href="$classlp_1_1UnaryOperatorNode.html" title="Definition of atributes and methods of UnaryOperatorNode class." alt="" coords="28,208,195,299"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,313,114,347,109,347,109,313"/>
-<area shape="rect" id="Node000003" href="$classlp_1_1ExpNode.html" title="Definition of atributes and methods of ExpNode class." alt="" coords="39,5,184,160"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,175,114,208,109,208,109,175"/>
-</map>

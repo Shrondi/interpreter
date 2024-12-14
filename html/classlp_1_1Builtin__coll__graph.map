@@ -1,7 +1,0 @@
-<map id="lp::Builtin" name="lp::Builtin">
-<area shape="rect" id="Node000001" title="Definition of atributes and methods of Builtin class." alt="" coords="5,773,147,1141"/>
-<area shape="rect" id="Node000002" href="$classlp_1_1Symbol.html" title="Definition of the class Symbol." alt="" coords="19,272,133,725"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,740,79,774,73,774,73,740"/>
-<area shape="rect" id="Node000003" href="$classlp_1_1SymbolInterface.html" title="Prototype of the pure virtual methods." alt="" coords="6,5,146,224"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,239,79,272,73,272,73,239"/>
-</map>
